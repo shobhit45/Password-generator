@@ -86,7 +86,3 @@ function App() {
 
 export default App
 
-// use callback
-//use effect
-//use ref
-// learnt these 
